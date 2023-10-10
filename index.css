@@ -7,3 +7,24 @@ img{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.contauner {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 50x 50x;
+}
+
+.about_h1{
+    background-color: blue;
+    color: blueviolet;
+    border: 2px solid teal;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: aqua;
+    background-color: blueviolet;
+    
+}

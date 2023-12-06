@@ -1,4 +1,4 @@
-<DOCTYPE html>
+<DOCTYPE html
     <html>
         <body>
             function adicionarLista(cadastro){
